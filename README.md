@@ -83,10 +83,6 @@ The goal of this dashboard is to provide insights into:
 
 ---
 
-##  Dashboard Preview
-
-(Add your screenshot here)
-
 ---
 
 ## Business Value
